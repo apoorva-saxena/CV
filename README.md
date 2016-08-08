@@ -1,6 +1,6 @@
 ## Apoorva Saxena
 
-I am a Web-based developer a​nd an experienced Quality Assurance Tester with a bachelors in both Computer Science and Education. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
+I am a Web developer and an experienced Quality Assurance Tester with a bachelors in both Computer Science and Education. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
 
 I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code.
 
