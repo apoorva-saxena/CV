@@ -69,3 +69,16 @@ Technologies Used: Sinatra, Ruby, ERB.
 *Maths Teaching Assistant*
 
 - Developing a creative curriculum for students of the school to enhance their learning experience.
+
+## Interests
+
+Traveling, ukulele, singing, reading.
+
+## Reviews
+Reviews about me from some of my classmates at [Makers Academy](http://www.makersacademy.com/)  
+
+- Persistant, Positive and Calm [Riya Pabari](https://github.com/riyapabari)  
+- Pragmatic,
+Understands before building something,
+Passionate [Toby Muir Little](https://github.com/toby676)
+- Can do attitude, reliable, competent, good team player [Jonathan Passe](https://github.com/Jojograndjojo)
