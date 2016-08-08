@@ -1,6 +1,6 @@
 ## Apoorva Saxena
 
-:envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962 | [LinkedIn](https://www.linkedin.com/in/apoorva-saxena-59007382?trk=nav_responsive_tab_profile)
+:envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962 | [LinkedIn](https://uk.linkedin.com/in/apoorva-saxena-59007382)
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |[Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
@@ -63,6 +63,7 @@ Technologies Used: Sinatra, Ruby, ERB.
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
 *Senior Programmer (Test)*  
 
+- Clients: Cisco, JPMorgan.
 - Expertise in executing scripts using QTP 9.2 and Selenium.
 - Expertise in HP Quality Center.
 - Expertise in BPT (Business Process Testing).
