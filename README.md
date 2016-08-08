@@ -72,13 +72,16 @@ Technologies Used: Sinatra, Ruby, ERB.
 
 ## Interests
 
-Traveling, ukulele, singing, reading.
+- :airplane:Traveling  
+- :guitar:ukulele  
+- :microphone:singing
+- :books:reading
 
 ## Reviews
-Reviews about me from some of my classmates at [Makers Academy](http://www.makersacademy.com/)  
+:sparkling_heart: Reviews about me from some of my classmates at [Makers Academy](http://www.makersacademy.com/) :sparkling_heart:
 
-- Persistant, Positive and Calm [Riya Pabari](https://github.com/riyapabari)  
-- Pragmatic,
+- Persistant, Positive and Calm :relaxed: [Riya Pabari](https://github.com/riyapabari)  
+- :ok_hand:Pragmatic,
 Understands before building something,
 Passionate [Toby Muir Little](https://github.com/toby676)
-- Can do attitude, reliable, competent, good team player [Jonathan Passe](https://github.com/Jojograndjojo)
+- Can do attitude :facepunch:, reliable, competent, good team player [Jonathan Passe](https://github.com/Jojograndjojo)
