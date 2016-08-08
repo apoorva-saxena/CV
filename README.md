@@ -82,7 +82,7 @@ Technologies Used: Sinatra, Ruby, ERB.
 <a name="Interests"></a>
 ## Interests
 
-- :airplane:Traveling  
+- :airplane:traveling  
 - :guitar:ukulele  
 - :microphone:singing
 - :books:reading
