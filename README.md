@@ -2,11 +2,9 @@
 
 I am a Web developer and an experienced Quality Assurance Tester with a bachelors in both Computer Science and Education. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
 
-I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code.
+I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Junior Web Developer.
 
 ## Skills
-
-#### Web Development
 
 - Language: Javascript, Ruby, HTML, CSS, jQuery
 - Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
@@ -44,11 +42,11 @@ Technologies Used: Sinatra, Ruby, ERB.
 - Ruby, Rails, Javascript, Node.js  
 - Rspec, Jasmine, Mocha
 
-#### Saroj Institute of Technology and Management(2006-2010)
-**Bachelors in Computer Science**
+#### Saroj Institute of Technology and Management(2006-2010)  
+- Bachelors in Computer Science
 
-#### Krishna Pal Singh College(2013-2014)
-**Bachelors in Education**
+#### Krishna Pal Singh College(2013-2014)  
+- Bachelors in Education
 
 
 ## Experience
@@ -70,4 +68,4 @@ Technologies Used: Sinatra, Ruby, ERB.
 **VIBGYOR High** (April 2014 - August 2014)
 *Maths Teaching Assistant*
 
-- Taught and developed curriculum for students of various grades.
+- Developing a creative curriculum for students of the school to enhance their learning experience.
