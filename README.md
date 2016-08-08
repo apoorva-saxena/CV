@@ -2,14 +2,15 @@
 
 :envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |[Projects](#Projects)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |[Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
 I am a Web developer and an experienced Quality Assurance Tester with a bachelors in both Computer Science and Education. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
 
 I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Junior Web Developer.
 
-## Skills
 <a name="Skills"></a>
+## Skills
+
 
 - Language: Javascript, Ruby, HTML, CSS, jQuery
 - Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
@@ -18,9 +19,9 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Testing: ​RSpec, Jasmine, Capybara, Mocha, Zombie
 - Templating Engines: EJS, ERB, Handlebars
 
-
-## Projects
 <a name="Projects"></a>
+## Projects
+
 
 ### [Code-Fish](code-fish.herokuapp.com)
 A Web application that helps developers interact and code together.  
@@ -36,9 +37,9 @@ Technologies Used: Sinatra, Ruby, PostgreSQL, DataMapper, ERB.
 A minimal web application to let you play Rock, Paper, Scissor.  
 Technologies Used: Sinatra, Ruby, ERB.
 
-
-## Education
 <a name="Education"></a>
+## Education
+
 
 #### Makers Academy (May2016 - August2016)
 
@@ -55,9 +56,9 @@ Technologies Used: Sinatra, Ruby, ERB.
 #### Krishna Pal Singh College(2013-2014)  
 - Bachelors in Education
 
-
-## Experience
 <a name="Experience"></a>
+## Experience
+
 
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
 *Senior Programmer (Test)*  
@@ -77,14 +78,14 @@ Technologies Used: Sinatra, Ruby, ERB.
 *Maths Teaching Assistant*
 
 - Developing a creative curriculum for students of the school to enhance their learning experience.
-
+<a name="Interests"></a>
 ## Interests
 
 - :airplane:Traveling  
 - :guitar:ukulele  
 - :microphone:singing
 - :books:reading
-
+<a name="Reviews"></a>
 ## Reviews
 :sparkling_heart: Reviews about me from some of my classmates at [Makers Academy](http://www.makersacademy.com/) :sparkling_heart:
 
