@@ -1,6 +1,6 @@
 ## Apoorva Saxena
 
-:envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962
+:envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962 | [LinkedIn](https://www.linkedin.com/in/apoorva-saxena-59007382?trk=nav_responsive_tab_profile)
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |[Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
