@@ -15,35 +15,25 @@ experience to crafting clean and reusable code.
 - Databases: Mongo, PostgreSQL
 - ORM: Active Records, Mongoose, DataMapper
 - Testing: ​RSpec, Jasmine, Capybara, Mocha, Zombie
-- Engines: EJS, ERB, Handlebars
+- Templating Engines: EJS, ERB, Handlebars
 
 
 ## Projects
 
 ### [Code-Fish](code-fish.herokuapp.com)
-Description: An app that helps developers interact and code together. Please find a short video of the application [here](https://www.youtube.com/watch?v=gpUAPkNlF04).
+A Web application that helps developers interact and code together.  
+Demonstration of the application - [Demo](https://www.youtube.com/watch?v=gpUAPkNlF04).  
 Technologies Used: Node, Javascript, jQuery, HTML, HandleBars, Mongo, Mongoose, WebSocketIo.
 ### [London bike space finder](https://github.com/apsaxena24/london-bike-space-finder)
-Description: A tiny app that lets you find space for your bike in a given radius.
+A web application that lets you find space for your bike anywhere in the city of London.
 Technologies Used: NodeJs, GoogleMaps API, Javascript.
 ### [Chitter](https://chitter12.herokuapp.com/)
-Description: A twitter clone with basic functionality to post peeps and comments.
+A twitter clone with basic functionality to post peeps and comments.  
 Technologies Used: Sinatra, Ruby, PostgreSQL, DataMapper, ERB.
 ### [Rock Paper Scissor](https://damp-gorge-24087.herokuapp.com/)
-Description: A tiny app to let you play Rock, Paper, Scissor.
+A minimal web application to let you play Rock, Paper, Scissor.  
 Technologies Used: Sinatra, Ruby, ERB.
 
-
-
-
-#### Team Player
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -58,18 +48,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Saroj Institute of Technology and Management(2006-2010)
 **Bachelors in Computer Science**
-Final Project: Events
 
 #### Krishna Pal Singh College(2013-2014)
 **Bachelors in Education**
-Research Project:  
 
 
 ## Experience
 
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
-Senior Programmer (Test)  
-
+*Senior Programmer (Test)*  
 
   - Expertise in executing scripts using QTP 9.2 and Selenium.
 	- Expertise in HP Quality Center.
@@ -81,11 +68,9 @@ Senior Programmer (Test)
 **Quipmate Enterprise solution** (December 15th, 2013 - January 1st, 2015)  
 *Web and UI Testing - Part Time*  
 
-Quipmate was a social network for work....
-- Tested .... components
-- Worked on...
+- Worked for central space for employees to edit the profile information visible to others,tested manually
 
-**VIBGYOR High** (December 15th, 2013 - January 1st, 2015)
+**VIBGYOR High** (December 15th, 2013 - January 1st, 2015)  
 *Maths Teaching Assistant*
 
 - Taught and developed curriculum for students of various grades.
