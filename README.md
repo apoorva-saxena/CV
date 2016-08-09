@@ -2,7 +2,7 @@
 
 :envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962 | [LinkedIn](https://uk.linkedin.com/in/apoorva-saxena-59007382)
 
-[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) |[Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
+[Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
 I am a Web developer and an experienced Quality Assurance Tester with a bachelors in both Computer Science and Education. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
 
@@ -40,17 +40,16 @@ Technologies Used: Sinatra, Ruby, ERB.
 <a name="Education"></a>
 ## Education
 
-
 #### Makers Academy (May2016 - August2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC, DDD //unabreviate
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js  
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine, Mocha, Zombie
 
-#### Saroj Institute of Technology and Management(2006-2010)  
+#### Uttar Pradesh Technical University(2006-2010)  
 - Bachelors in Computer Science
 
 #### Krishna Pal Singh College(2013-2014)  
@@ -58,7 +57,6 @@ Technologies Used: Sinatra, Ruby, ERB.
 
 <a name="Experience"></a>
 ## Experience
-
 
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
 *Senior Programmer (Test)*  
@@ -75,10 +73,11 @@ Technologies Used: Sinatra, Ruby, ERB.
 
 - Feature, usability testing and feedback of User Profiles and News-Feed.
 
-**VIBGYOR High** (April 2014 - August 2014)
+**VIBGYOR High** (April 2014 - August 2014)  
 *Maths Teaching Assistant*
 
 - Developing a creative curriculum for students of the school to enhance their learning experience.
+
 <a name="Interests"></a>
 ## Interests
 
@@ -86,12 +85,13 @@ Technologies Used: Sinatra, Ruby, ERB.
 - :guitar:ukulele  
 - :microphone:singing
 - :books:reading
+
 <a name="Reviews"></a>
 ## Reviews
-:sparkling_heart: Reviews about me from some of my classmates at [Makers Academy](http://www.makersacademy.com/) :sparkling_heart:
+:sparkling_heart: Reviews about me from some of my classmates at Makers Academy :sparkling_heart: // change this
 
-- Persistant, Positive and Calm :relaxed: [Riya Pabari](https://github.com/riyapabari)  
+- Persistant, Positive and Calm :relaxed: - [Riya Pabari](https://github.com/riyapabari)  
 - :ok_hand:Pragmatic,
 Understands before building something,
-Passionate [Toby Muir Little](https://github.com/toby676)
-- Can do attitude :facepunch:, reliable, competent, good team player [Jonathan Passe](https://github.com/Jojograndjojo)
+Passionate - [Toby Muir Little](https://github.com/toby676)
+- Can do attitude :facepunch:, reliable, competent, good team player - [Jonathan Passe](https://github.com/Jojograndjojo)
