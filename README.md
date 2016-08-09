@@ -4,13 +4,12 @@
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
-I am a *Web developer* and an experienced *Quality Assurance Tester* with a *B.tech in Computer Science* and *B.A. in Education*. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
+I am a __Web developer__ and an experienced __Quality Assurance Tester__ with a __B.tech in Computer Science__ and __B.Ed. in Education__. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
 
 I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Junior Web Developer.
 
 <a name="Skills"></a>
 ## Skills
-
 
 - Language: Javascript, Ruby, HTML, CSS, jQuery
 - Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
@@ -26,16 +25,16 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 ### [Code-Fish](code-fish.herokuapp.com)
 A Web application that helps developers interact and code together.  
 Demonstration of the application - [Demo](https://www.youtube.com/watch?v=gpUAPkNlF04).  
-Technologies Used: Node.js, Javascript, jQuery, HTML, HandleBars, Mongo, Mongoose, WebSocketIo.
+We used __Node.js__ with __Express__ for the backend with __websockets__ for chat. For our database we used __Mongodb__ with __mongoose__ ORM. Our templating technology was __handlebars__ and the frontend was in __jquery__ with __bootstrap, HTML, CSS__. We tested the application with __Mocha__ and __zombie__.
 ### [London bike space finder](https://github.com/apsaxena24/london-bike-space-finder)
 A web application that lets you find space for your bike anywhere in the city of London.
-Technologies Used: Node.js, Google Maps API, Javascript.
+__Nodejs__ with __Express__ served as the backend, with __google maps api__ for maps in the frontend, and __tfl api__ for getting the bicycle points in the backend. The frontend was in vanilla __javascript__.
 ### [Chitter](https://chitter12.herokuapp.com/)
 A twitter clone with basic functionality to post peeps and comments.  
-Technologies Used: Sinatra, Ruby, PostgreSQL, DataMapper, ERB.
+We used __Ruby__ and __Sinatra__ as our backend web framework, with __postgres__ and __datamapper__ as the database/ORM respectively. __ERB__ was used for templating. The frontend was in __HTML, CSS__ with the help of __bootstrap__.
 ### [Rock Paper Scissor](https://damp-gorge-24087.herokuapp.com/)
 A minimal web application to let you play Rock, Paper, Scissor.  
-Technologies Used: Sinatra, Ruby, ERB.
+Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating and __HTML + bootstrap__ for the frontend.
 
 <a name="Education"></a>
 ## Education
@@ -81,8 +80,8 @@ Technologies Used: Sinatra, Ruby, ERB.
 <a name="Interests"></a>
 ## Interests
 
-- :airplane:traveling  
-- :guitar:ukulele  
+- :airplane: traveling.
+- :guitar: Ukelele.
 - :microphone:singing
 - :books:reading
 
