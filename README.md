@@ -50,7 +50,7 @@ Technologies Used: Sinatra, Ruby, ERB.
 - Rspec, Jasmine, Mocha, Zombie
 
 #### Uttar Pradesh Technical University(2006-2010)  
-- Bachelors in Computer Science
+- B.Tech in Computer Science
 
 #### Krishna Pal Singh College(2013-2014)  
 - Bachelors in Education
