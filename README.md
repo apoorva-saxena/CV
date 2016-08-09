@@ -44,7 +44,7 @@ Technologies Used: Sinatra, Ruby, ERB.
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD //unabreviate
+- OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js  
 - Rspec, Jasmine, Mocha, Zombie
