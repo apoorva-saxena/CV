@@ -41,10 +41,11 @@ Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating 
 
 #### Makers Academy (May2016 - August2016)
 
-- Curiosity and hungry passion for code
+- Pair programming
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Test driven development and behaviour driven development
+- Agile methodologies
+- Object-oriented design
 - Ruby, Rails, Javascript, Node.js  
 - Rspec, Jasmine, Mocha, Zombie
 
