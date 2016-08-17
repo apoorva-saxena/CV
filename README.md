@@ -1,7 +1,5 @@
 ## Apoorva Saxena
 
-:envelope:  apsaxena24@gmail.com | :telephone_receiver: +44 7404042962 | [LinkedIn](https://uk.linkedin.com/in/apoorva-saxena-59007382)
-
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
 I am a __Web developer__ and an experienced __Quality Assurance Tester__ with a __B.tech in Computer Science__ and __B.Ed. in Education__. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
