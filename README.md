@@ -16,7 +16,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Testing: ​RSpec, Jasmine, Capybara, Mocha, Zombie
 - Templating Engines: EJS, ERB, Handlebars
 
-<a name="Projects"></a>
+<a name="Experience"></a>
 ## Experience
 
 **Opteo** (Sep, 2017 - Present)    
@@ -40,7 +40,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 - Developing a creative curriculum for students of the school to enhance their learning experience.
 
-<a name="Interests"></a>
+<a name="Projects"></a>
 ## Projects
 
 
@@ -77,8 +77,8 @@ Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating 
 #### Krishna Pal Singh College(2013-2014)  
 - Bachelors in Education
 
-<a name="Experience"></a>
 
+<a name="Interests"></a>
 ## Interests
 
 - :airplane: traveling.
