@@ -2,7 +2,7 @@
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
-I am a __Web developer__ and an experienced __Quality Assurance Tester__ with a __B.tech in Computer Science__ and __B.Ed. in Education__. Since May 2016 I have been part of a 12 week intensive Web-Development coding bootcamp to improve my technical knowledge and get more hands on experience with Real-world Projects.
+I am a __Full Stack Developer__ and an experienced __Quality Assurance Tester__ with a __B.tech in Computer Science__ and __B.Ed. in Education__.
 
 I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Junior Web Developer.
 
@@ -56,15 +56,16 @@ Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating 
 <a name="Experience"></a>
 ## Experience
 
+**Opteo** (Sep, 2017 - Present)    
+*Full Stack Developer*  
+
+- Full stack web development in Node JS, Express, Javascript, Angular
+
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
 *Senior Programmer (Test)*  
 
 - Clients: Cisco, JPMorgan.
-- Expertise in executing scripts using QTP 9.2 and Selenium.
-- Expertise in HP Quality Center.
-- Expertise in BPT (Business Process Testing).
-- Involved in Product Testing & System Integration Testing of Web-based Applications.
-- Experienced in Scenario Identification, Test Creation and Test execution.
+- QTP 9.2, Selenium, HP Quality Center, BPT, Product Testing & System Integration Testing of Web-based Applications, Scenario Identification, Test Creation and Test execution.
 
 **Quipmate Enterprise solution** (December 15th, 2013 - January 1st, 2015)  
 *Web and UI Testing - Part Time*  
