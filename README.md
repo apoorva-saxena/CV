@@ -82,7 +82,7 @@ Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating 
 ## Interests
 
 - :airplane: traveling.
-- :guitar: Ukelele.
+- :guitar: Ukulele.
 - :microphone:singing
 - :books:reading
 
