@@ -29,7 +29,7 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Full stack web development in Node JS, Express, Javascript, Angular
 
 **Accenture** (Dec 15th, 2010 - Nov 15th 2013)    
-*Senior Programmer (Test)*  
+*Senior Programmer*  
 
 - Clients: Cisco, JPMorgan.
 - QTP 9.2, Selenium, HP Quality Center, BPT, Product Testing & System Integration Testing of Web-based Applications, Scenario Identification, Test Creation and Test execution.
