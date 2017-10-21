@@ -18,8 +18,12 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 <a name="Experience"></a>
 ## Experience
+**BBC Worldwide** (Sep, 2017 - Present)    
+*Full Stack Developer*  
 
-**Opteo** (Sep, 2017 - Present)    
+- Full stack web development in Node JS, Express, Javascript, React
+
+**Opteo** (Sep, 2016 - Sep, 2017)    
 *Full Stack Developer*  
 
 - Full stack web development in Node JS, Express, Javascript, Angular
