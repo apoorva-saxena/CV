@@ -4,7 +4,7 @@
 
 I am a __Full Stack Developer__ and an experienced __Quality Assurance Tester__ with a __B.tech in Computer Science__ and __B.Ed. in Education__.
 
-I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Junior Web Developer.
+I have insatiable appetite for knowledge and am seeking a company where I can contribute hands on experience to crafting clean and reusable code as a Web Developer.
 
 <a name="Skills"></a>
 ## Skills
