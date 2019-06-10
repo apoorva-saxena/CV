@@ -36,14 +36,6 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 
 - Developing a creative curriculum for students of the school to enhance their learning experience.
 
-**VIBGYOR High** (April 2014 - August 2014)  
-*Maths Teaching Assistant*
-
-**Quipmate Enterprise solution** (December 15th, 2013 - January 1st, 2015)  
-*Web and UI Testing - Part Time*  
-
-- Feature, usability testing and feedback of User Profiles and News-Feed.
-
 <a name="Projects"></a>
 ## Projects
 
