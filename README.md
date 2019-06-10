@@ -34,8 +34,6 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 - Clients: Cisco, JPMorgan.
 - QTP 9.2, Selenium, HP Quality Center, BPT, Product Testing & System Integration Testing of Web-based Applications, Scenario Identification, Test Creation and Test execution.
 
-- Developing a creative curriculum for students of the school to enhance their learning experience.
-
 <a name="Projects"></a>
 ## Projects
 
