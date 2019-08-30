@@ -65,12 +65,4 @@ Worked on the frontEnd using __Angular__ and for the backend used the language _
 - :microphone:singing
 - :books:reading
 
-<a name="Reviews"></a>
-## Reviews
-:sparkling_heart: Reviews about me from some of my classmates at Makers Academy :sparkling_heart: // change this
 
-- Persistant, Positive and Calm :relaxed: - [Riya Pabari](https://github.com/riyapabari)  
-- :ok_hand:Pragmatic,
-Understands before building something,
-Passionate - [Toby Muir Little](https://github.com/toby676)
-- Can do attitude :facepunch:, reliable, competent, good team player - [Jonathan Passe](https://github.com/Jojograndjojo)
