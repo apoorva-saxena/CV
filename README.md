@@ -42,15 +42,10 @@ I have insatiable appetite for knowledge and am seeking a company where I can co
 A Web application that helps developers interact and code together.  
 Demonstration of the application - [Demo](https://www.youtube.com/watch?v=gpUAPkNlF04).  
 We used __Node.js__ with __Express__ for the backend with __websockets__ for chat. For our database we used __Mongodb__ with __mongoose__ ORM. Our templating technology was __handlebars__ and the frontend was in __jquery__ with __bootstrap, HTML, CSS__. We tested the application with __Mocha__ and __zombie__.
-### [London bike space finder](https://github.com/apsaxena24/london-bike-space-finder)
-A web application that lets you find space for your bike anywhere in the city of London.
-__Nodejs__ with __Express__ served as the backend, with __google maps api__ for maps in the frontend, and __tfl api__ for getting the bicycle points in the backend. The frontend was in vanilla __javascript__.
-### [Chitter](https://chitter12.herokuapp.com/)
-A twitter clone with basic functionality to post peeps and comments.  
-We used __Ruby__ and __Sinatra__ as our backend web framework, with __postgres__ and __datamapper__ as the database/ORM respectively. __ERB__ was used for templating. The frontend was in __HTML, CSS__ with the help of __bootstrap__.
-### [Rock Paper Scissor](https://damp-gorge-24087.herokuapp.com/)
-A minimal web application to let you play Rock, Paper, Scissor.  
-Backend web framework was __Sinatra__ and __Ruby__, with __ERB__ for templating and __HTML + bootstrap__ for the frontend.
+### [BBC Studios Online Catalogue](https://sales.bbcstudios.com/)
+Worked on the frontend for the website which was in __React__ and for backend we use __loopback__ (IBM's framework for backend) and language used is __Node__.
+### [Opteo](https://opteo.com/)
+Worked on the frontEnd using __Angular__ and for the backend used the language __Node__.
 
 <a name="Education"></a>
 ## Education
