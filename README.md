@@ -43,9 +43,9 @@ A Web application that helps developers interact and code together.
 Demonstration of the application - [Demo](https://www.youtube.com/watch?v=gpUAPkNlF04).  
 We used __Node.js__ with __Express__ for the backend with __websockets__ for chat. For our database we used __Mongodb__ with __mongoose__ ORM. Our templating technology was __handlebars__ and the frontend was in __jquery__ with __bootstrap, HTML, CSS__. We tested the application with __Mocha__ and __zombie__.
 ### [BBC Studios Online Catalogue](https://sales.bbcstudios.com/)
-Worked on the frontend for the website which was in __React__ and for backend we use __loopback__ (IBM's framework for backend) and language used is __Node__.
+Worked on the frontend for the website which was in __React__ and for backend we use __loopback__ (IBM's framework for backend) and language used is __Node__. Databases used were __Postgres__ and __MySQL__.
 ### [Opteo](https://opteo.com/)
-Worked on the frontEnd using __Angular__ and for the backend used the language __Node__.
+Worked on the frontEnd using __Angular__ and for the backend used the language __Node__. Database used was __MySQL__.
 
 <a name="Education"></a>
 ## Education
