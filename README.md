@@ -50,16 +50,6 @@ Worked on the frontEnd using __Angular__ and for the backend used the language _
 <a name="Education"></a>
 ## Education
 
-#### Makers Academy (May2016 - August2016)
-
-- Pair programming
-- Independent learner and problem-solver
-- Test driven development and behaviour driven development
-- Agile methodologies
-- Object-oriented design
-- Ruby, Rails, Javascript, Node.js  
-- Rspec, Jasmine, Mocha, Zombie
-
 #### Uttar Pradesh Technical University(2006-2010)  
 - B.Tech in Computer Science
 
