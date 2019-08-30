@@ -64,5 +64,6 @@ Worked on the frontEnd using __Angular__ and for the backend used the language _
 - :guitar: Ukulele.
 - :microphone:singing
 - :books:reading
+- :laptop:working on my own projects. Recently created a website for my brother's business [Kyaari](kyaari.com)
 
 
