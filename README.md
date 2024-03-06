@@ -16,7 +16,12 @@ I am a __Full Stack Developer__ working for BBC London.
 
 <a name="Experience"></a>
 ## Experience
-**BBC Worldwide** (Sep, 2017 - Present)    
+**Skyscanner** (Sep, 2021 - Present)    
+*Full Stack Developer*  
+
+- Front end deveopment using React.
+  
+**BBC Worldwide** (Sep, 2017 - June 2021)    
 *Full Stack Developer*  
 
 - Full stack web development in Node JS, Express, Javascript, React
