@@ -19,7 +19,7 @@ I am a __Full Stack Developer__ working for BBC London.
 **Skyscanner** (Sep, 2021 - Present)    
 *Data Engineer*  
 
-- Built a data pipeline of marketing data (MarTech) with PySpark, Airflow and AWS Lambda
+- Built data pipelines of marketing data (MarTech) with PySpark, Airflow and AWS Lambda
   
 **BBC Worldwide** (Sep, 2017 - June 2021)    
 *Full Stack Developer*  
