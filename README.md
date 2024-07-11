@@ -17,9 +17,9 @@ I am a __Full Stack Developer__ working for BBC London.
 <a name="Experience"></a>
 ## Experience
 **Skyscanner** (Sep, 2021 - Present)    
-*Full Stack Developer*  
+*Data Engineer*  
 
-- Front end deveopment using React.
+- Built a data pipeline of marketing data (MarTech) with PySpark, Airflow and AWS Lambda
   
 **BBC Worldwide** (Sep, 2017 - June 2021)    
 *Full Stack Developer*  
