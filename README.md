@@ -2,12 +2,12 @@
 
 [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Projects](#Projects) | [Interests](#Interests) | [Reviews](#Reviews)
 
-I am a __Full Stack Developer__ working for BBC London.
+I am a __Full Stack Developer__ working for Skyscanner London.
 
 <a name="Skills"></a>
 ## Skills
 
-- Language: Javascript, Ruby, HTML, CSS
+- Language: Javascript, Python, Ruby, HTML, CSS
 - Framework and Libraries: Sinatra, Rails, Express, jQuery, Node.js.
 - Databases: Mongo, PostgreSQL
 - ORM: Active Records, Mongoose, DataMapper
@@ -17,9 +17,10 @@ I am a __Full Stack Developer__ working for BBC London.
 <a name="Experience"></a>
 ## Experience
 **Skyscanner** (Sep, 2021 - Present)    
-*Data Engineer*  
+*Software Engineer*  
 
 - Built data pipelines of marketing data (MarTech) with PySpark, Airflow and AWS Lambda
+- Worked on the search functionality using react, redux.
   
 **BBC Worldwide** (Sep, 2017 - June 2021)    
 *Full Stack Developer*  
